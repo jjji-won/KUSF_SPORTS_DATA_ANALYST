@@ -1,0 +1,2 @@
+# 2021_KUSF_SPORTS_DATA_ANALYST
+2021 KUSF U-스포츠마케팅 러너 스포츠데이터 분석과정
