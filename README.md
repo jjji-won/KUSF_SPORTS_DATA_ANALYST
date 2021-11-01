@@ -3,3 +3,9 @@
 
 안녕하세요. 스포츠 데이터 분석가 과정 강의를 맡게 된 심교훈, 손지현입니다.
 
+
+## 업로드된 강의
+- Class0_linux.pdf => Class 0. Welcome!
+- Class1_linux.pdf => Class 1. 데이터베이스에서 데이터 조회하기
+
+
