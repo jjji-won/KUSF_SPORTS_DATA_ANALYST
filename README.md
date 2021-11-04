@@ -11,6 +11,7 @@
 - Class0_linux.pdf => Class 0. Welcome!
 - Class1_linux.pdf => Class 1. 데이터베이스에서 데이터 조회하기
 - Class2_linux.pdf => Class 2. SQLite3로 야구 스탯 직접 계산해보기
+- Class3_linux.pdf => Class 3. SQLite3 심화
 
 ## 강사 이메일
 - 심교훈: kyohoonsim@gmail.com
