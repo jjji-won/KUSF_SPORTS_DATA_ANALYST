@@ -13,6 +13,9 @@
 - Class2_linux.pdf => Class 2. SQLite3로 야구 스탯 직접 계산해보기
 - Class3_linux.pdf => Class 3. SQLite3 심화
 
+## 참고자료
+- 레먼데이터베이스 테이블명세(엑셀)
+
 ## 강사 이메일
 - 심교훈: kyohoonsim@gmail.com
 - 손지현: wowsjh02@gmail.com
