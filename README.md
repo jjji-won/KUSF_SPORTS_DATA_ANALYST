@@ -12,6 +12,8 @@
 - Class1_linux.pdf => Class 1. 데이터베이스에서 데이터 조회하기
 - Class2_linux.pdf => Class 2. SQLite3로 야구 스탯 직접 계산해보기
 - Class3_linux.pdf => Class 3. SQLite3 심화
+- Class4_linux.pdf => Class 4. 상관관계
+- Class번외_linux.pdf => Class 번외. 다른 종목 데이터
 
 ## 참고자료
 - 레먼데이터베이스 테이블명세(엑셀)
