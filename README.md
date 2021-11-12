@@ -16,6 +16,7 @@
 - Class번외_linux.pdf => Class 번외. 다른 종목 데이터
 - Class5_linux.pdf => Class 5. 파이썬
 - Class6_linux.pdf => Class 6. 평가 vs 예측
+- Class7.pdf => Class7. 파이썬 - 시각화 및 분석(1)
 
 ## 참고자료
 - 레먼데이터베이스 테이블명세(엑셀)
