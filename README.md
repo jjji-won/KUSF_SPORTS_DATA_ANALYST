@@ -18,6 +18,7 @@
 - Class6_linux.pdf => Class 6. 평가 vs 예측
 - Class7.pdf => Class7. 파이썬 - 시각화 및 분석(1)
 - Class8.pdf => Class8. 파이썬 - 시각화 및 분석(2)
+- Class9.pdf => Claas9. 파이썬 - 시각화 및 분석(3)
 
 ## 참고자료
 - 레먼데이터베이스 테이블명세(엑셀)
