@@ -16,6 +16,7 @@
 - Class5_레먼데이터베이스 
 - Class6_SQL로 야구 스탯 직접 계산해보기
 - Class7_SQL심화
+- Class8_상관계수
 
 ## 강사 이메일
 - 심교훈: kyohoonsim@gmail.com
